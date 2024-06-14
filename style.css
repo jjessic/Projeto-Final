@@ -1,0 +1,28 @@
+body {
+    background-image:linear-gradient(#6B21F8, #AB90DD);
+}
+
+h1 {
+    color:#c7a8ff;
+    font-size: 50px;
+    font-family:fantasy;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #ffffff; 
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+}
+
+p {
+    color:#26095D;
+    font-size: 20px;
+    font-family: fantasy;
+    -webkit-text-stroke-width: 1.2px;
+    -webkit-text-stroke-color: #ffffff; 
+}
+
+img {
+    object-fit: cover;
+    object-position: 900px 500px;
+
+}
