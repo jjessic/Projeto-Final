@@ -23,13 +23,64 @@ p {
     -webkit-text-stroke-color: #ffffff; 
 }
 
+.content {
+    display: flex;
+
+}
+
 .Turismo {
-    width: 20px;
-    margin-left: 200px;
+    width: 30px;
+    margin-left: 50px;
+    margin-top: 100px;
+    text-align: center;
 }
 
 .Astro {
-    width: 200px;
+    width: 250px;
+    height: 250px;
+    border: 2px solid white;
+    border-radius: 20px;
+    border-color: #ffffff;
+    object-fit: cover;
+}
+
+.Negocios {
+    width: 30px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.Polt {
+    width: 250px;
+    height: 250px;
+    border: 2px solid white;
+    border-radius: 20px;
+    border-color: #ffffff;
+    object-fit: cover;
+}
+
+.Pesquisa {
+    width: 30px;
+    margin-left: 350px;
+    margin-top: 100px;
+}
+
+.Pesq {
+    width: 250px;
+    border: 2px solid white;
+    border-radius: 20px;
+    border-color: #ffffff;
+}
+
+.Colonizacao {
+    width: 30px;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+
+.Col {
+    width: 250px;
+    border: 2px solid white;
     border-radius: 20px;
     border-color: #ffffff;
 }
